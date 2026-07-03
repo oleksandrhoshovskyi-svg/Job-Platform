@@ -167,8 +167,8 @@ Key Hibernate configuration:
 
 ![Browse](screenshots/browse.png)
 ![Offer Details](screenshots/offer-details.png)
-![Submit Application](screenshots/submit.png)
-![Employer Dashboard](screenshots/employer.png)
+![Submit Application](screenshots/submit-application.png)
+![Employer Dashboard](screenshots/employer-dashboard.png)
 
 ## Running the Project
 
