@@ -163,6 +163,13 @@ Key Hibernate configuration:
 | Saved Offers | Bookmarked offers with direct apply option |
 | Employer Dashboard | Two-panel offer → application list, status management, interview scheduling |
 
+## Screenshots
+
+![Browse](screenshots/browse.png)
+![Offer Details](screenshots/offer-details.png)
+![Submit Application](screenshots/submit.png)
+![Employer Dashboard](screenshots/employer.png)
+
 ## Running the Project
 
 **Prerequisites:** Java 17+, Maven 3.6+
