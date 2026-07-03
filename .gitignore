@@ -1,0 +1,22 @@
+# Compiled
+target/
+*.class
+
+# H2 database files - don't push the DB
+data/
+*.mv.db
+*.trace.db
+*.lock.db
+
+# IntelliJ project files
+.idea/
+*.iml
+MAS_Final_project.iml
+
+# Maven
+*.jar
+*.war
+
+# OS
+.DS_Store
+Thumbs.db
